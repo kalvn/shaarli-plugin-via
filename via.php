@@ -1,4 +1,6 @@
 <?php
+use Shaarli\Plugin\PluginManager;
+
 /**
  * Hook render_linklist.
  *
